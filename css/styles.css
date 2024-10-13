@@ -1,0 +1,15 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;  /* Sets the font for the entire page */
+    margin: 0;                       /* Removes default margin */
+    padding: 0;                      /* Removes default padding */
+    background-color: #f4f4f4;      /* Sets a light gray background */
+}
+
+header {
+    background-color: #35424a;      /* Dark gray header background */
+    color: white;                   /* White text color */
+    padding: 20px;                  /* Padding inside header */
+    text-align: center;             /* Centered text */
+}
